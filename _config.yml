@@ -1,0 +1,46 @@
+title: Connor Buchheit
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal website and blog of Connor Buchheit.
+  Software developer, technology enthusiast, and lifelong learner.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://connorbuchheit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: connorbuchheit
+github_username:  connorbuchheit
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Connor Buchheit"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page" 
