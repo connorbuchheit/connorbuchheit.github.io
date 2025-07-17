@@ -6,33 +6,34 @@ permalink: /about/
 
 # About Me
 
-Hi — I'm Connor. I studied math and computer science, and most of what I do sits at the intersection of the two.
+Hi — I'm Connor. I studied applied math, computer science, and Germanic languages and literature at Harvard, graduating in Spring 2025 with both an A.B. in Applied Mathematics and Germanic Languages and Literature and an S.M. in Computational Science and Engineering.
 
-I like building systems that work well, thinking about how things fail, and occasionally writing about it. My interests include:
+Most of what I do sits at the intersection of theory and engineering. I’m especially interested in:
 
-- Parallel and high-performance computing
-- Machine learning systems and interpretability
-- Scientific computing, algorithms, and compilers
-- Languages and abstractions — the mathy kind and the human kind
-
-This site collects my notes, experiments, and side projects. Some things are polished, others are half-baked — I like keeping it that way.
+- High-performance computing and parallel systems  
+- Machine learning infrastructure and interpretability  
+- Scientific computing, algorithms, and mathematical modeling  
+- The mathematical theory behind computational problems — whether in reinforcement learning, computer vision, or large-scale simulation
 
 ---
 
-## Where I've Been
+## Research & Projects
 
-I’ve done research in machine learning and scientific computing, worked on systems-level code, and built tools for analyzing complex data. I'm especially interested in problems where performance, correctness, and interpretability all matter.
+I’ve done research in large language models and computational neuroscience, worked as a teaching fellow for a graduate-level HPC class, and I avidly build in my free time. I'm equally drawn to the big-picture questions of research and the nitty-gritty problem-solving of engineering.
+
+This site is meant for my notes, experiments, and side projects, ranging from quick drafts or thoughts to more polished pieces.
+
+---
 
 ## Outside of Work
 
-When I'm not coding or debugging something weird, I’m probably reading about history, working through a math paper, or learning languages (natural and programming). I also spend way too much time thinking about writing.
+When I’m not coding or debugging something weird, I’m probably reading one of literature, philosophy, or a research paper; learning languages (I speak 4 well and more satisfactorily); playing tennis or watching reality TV; going down Wikipedia rabbit holes; or writing — when I have the time (or the discipline).
 
 ---
 
 ## Reach Out
 
-I’m always open to new ideas, collaborations, or just a good conversation.
+I'm always open to new ideas, collaborations, or just a good conversation.
 
-- [GitHub](https://github.com/connorbuchheit)
+- [GitHub](https://github.com/connorbuchheit)  
 - [Email](mailto:connorbuchheit@gmail.com)
-

@@ -3,29 +3,19 @@ layout: home
 title: Home
 ---
 
-# Hey, I'm Connor Buchheit
+## Connor Buchheit
 
-I studied math and computer science, and I’m interested in systems, algorithms, and how things work under the hood. This site is a place for notes, small projects, and things I’ve found interesting enough to write down.
+Hi! I'm Connor. I'm interested in how systems work — especially where math, code, and real-world constraints intersect.
 
-## A Bit About Me
+I recently graduated from Harvard with degrees in Applied Math, Computer Science, and Germanic Languages and Literature. My background spans high-performance computing, machine learning systems, and mathematical theory.
 
-Most of my work revolves around applied math, software engineering, and machine learning. I'm especially into:
+This site is a place for notes, small projects, and things I’ve found interesting enough to write down.
 
-- Low-level optimization and parallel computing
-- Machine learning systems and interpretability
-- Functional programming, category theory, and other things I don't *really* know but keep trying to learn
+## Explore
 
-## What You'll Find Here
-
-I use this site as a kind of public notebook. You might find:
-- Project write-ups
-- Code experiments
-- Short blog posts (occasional and informal)
-
-## Elsewhere
-
-- [GitHub](https://github.com/connorbuchheit)
 - [Blog](/blog)
+- [About Me](/about)
+- [GitHub](https://github.com/connorbuchheit)
 
 ---
 
